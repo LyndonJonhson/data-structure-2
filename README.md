@@ -12,5 +12,3 @@ Repository used as a portfolio to show all the activities developed during the s
 **Week 02**: 
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/python-fundamentals-de-ii/) **Introduction to Python for Data Engineering: Fundamentals Part II**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/78/m/435/object-oriented-python/1/introduction) **Object Oriented Programming (OOP) introduction**
-    - :facepunch: **Skills you'll gain:** You’ll also explore object-oriented programming (OOP) and how it powers Python
-    - :hourglass_flowing_sand: Estimated time: 3h
