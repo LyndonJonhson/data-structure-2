@@ -23,4 +23,4 @@ Repository used as a portfolio to show all the activities developed during the s
 [**Week 04**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_04)
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/578) **Overview of recursion**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/579) **Introduction to binary trees**
-[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Code_Interview_recursion.ipynb) **Activity:** Solve the challenges present in the notebook, being able to use chatGPT to assist in development.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Code_Interview_recursion.ipynb) **Activity:** Solve the challenges present in the notebook, being able to use chatGPT to assist in development.
