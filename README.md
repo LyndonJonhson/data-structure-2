@@ -24,3 +24,16 @@ Repository used as a portfolio to show all the activities developed during the s
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/578) **Overview of recursion**
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/109/m/579) **Introduction to binary trees**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Code_Interview_recursion.ipynb) **Activity:** Solve the challenges present in the notebook, being able to use chatGPT to assist in development.
+
+**Week 05**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272) **Fundamentals of algorithms complexity I**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3) **Fundamentals of algorithms complexity II**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1e67c2e7b8d349c6923d341d182e28bb) **Big O notation**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/84067923809c45cf9979fa50d4efd5f4) **Big <span>&Omega;</span> notation**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c) **Big <span>&Theta;</span> notation**
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476) **Time Complexity of Algorithms**
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/477) **Constant Time Complexity**
+
+[**Week 06**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_06)
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/algorithm-complexity) **Introduction to Algorithms**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Week_06_bst.ipynb) **Activity:** Solve the challenges present in the notebook, being able to use chatGPT to assist in development.
