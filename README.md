@@ -37,3 +37,12 @@ Repository used as a portfolio to show all the activities developed during the s
 [**Week 06**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_06)
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/algorithm-complexity) **Introduction to Algorithms**
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/Week_06_bst.ipynb) **Activity:** Solve the challenges present in the notebook, being able to use chatGPT to assist in development.
+
+**Week 07**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/476b0ea23ab3432e8f6ef4aaab159f84) **Basic Definitions**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/965db751b933483fb11e516eb8faa952) **Extended Graphs**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d677f78681ae406687dd9e4f0b115a56) **Density, Sparsity and Subnetworks**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/46f59a92d5a843ca9d5f1b550e7d084e) **Degree and Network Representation**
+
+[**Week 08**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_08)
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](LyndonJonhson/data-structure-2/tree/main/week_08/week_08.ipynb) **Review week 07:** Solve the questions present in the notebook.
