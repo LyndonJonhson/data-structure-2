@@ -45,4 +45,4 @@ Repository used as a portfolio to show all the activities developed during the s
 - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/46f59a92d5a843ca9d5f1b550e7d084e) **Degree and Network Representation**
 
 [**Week 08**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_08)
-- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](LyndonJonhson/data-structure-2/tree/main/week_08/week_08.ipynb) **Review week 07:** Solve the questions present in the notebook.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/LyndonJonhson/data-structure-2/blob/main/week_08/week_08.ipynb) **Review week 07:** Solve the questions present in the notebook.
