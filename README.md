@@ -46,3 +46,13 @@ Repository used as a portfolio to show all the activities developed during the s
 
 [**Week 08**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_08)
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/LyndonJonhson/data-structure-2/blob/main/week_08/week_08.ipynb) **Review week 07:** Solve the questions present in the notebook.
+
+**Week 09**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/NetworkX.ipynb) **The art of seeing networks**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6563374eabc64385a2b55313da688c2c) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Assortativity.ipynb) **Assortativity**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2d92497357d54494b1b03990a23abd83) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Walks%2C%20Paths%20and%20Distances.ipynb) **Paths, Walks and Distances**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f573b053f65f43909cdc64cfe72ce5b9) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Connected%20Components.ipynb) **Connected Components**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1880f8dbf5864104a011bba8bc767121) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/Clustering%20Coefficient.ipynb) **Clustering Coefficient**
+
+[**Week 10 - PROJECT**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_10-small_worlds_project)
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_10/Project_U2P1.pdf) **Project requirement**
