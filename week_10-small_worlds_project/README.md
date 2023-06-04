@@ -43,6 +43,7 @@ import pandas as pd
 Atualmente, temos abaixo seguinte quantidade de nós e links com dados de diversos países.
 
 Número de nós: 1083
+
 Número de links: 9613
 
 Filtrando os dados para o país Brasil.
@@ -50,6 +51,7 @@ Filtrando os dados para o país Brasil.
 Após filtrar os dados pelo país, temos agora a seguinte quantidade de nós e links.
 
 Número de nós: 495
+
 Número de links: 4402
 
 Contudo, está faltando o dado da região e estado, então vamos acrescentá-los.
@@ -87,7 +89,6 @@ Ao analisar os gráficos e os coeficientes obtidos logo abaixo, verificamos que 
 
 <p align='center'><img src='./images/brasil_grau_assortatividade.png'></p>
 
-
 coeficiente de assortatividade: -0.2017097172979742
 
 
@@ -123,7 +124,7 @@ coeficiente de assortatividade: -0.3687746079424212
 
 #### Centro-oeste
 
-<p align='center'><img src='./images/OESTE_grau_assortatividade.png'></p>
+<p align='center'><img src='./images/CENTRO-OESTE_grau_assortatividade.png'></p>
 
 coeficiente de assortatividade: -0.3542839902086467
 
@@ -145,26 +146,31 @@ Número de componentes conectados: 5
 #### Norte
 
 Número de componentes conectados: 3
+
 Porcentagem: 25.66%
 
 #### Nordeste
 
 Número de componentes conectados: 6
+
 Porcentagem: 18.74%
 
 #### Sul
 
 Número de componentes conectados: 6
+
 Porcentagem: 14.26%
 
 #### Sudeste
 
 Número de componentes conectados: 5
+
 Porcentagem: 23.42%
 
 #### Centro-oeste
 
 Número de componentes conectados: 6
+
 Porcentagem: 17.92%
 
 
@@ -184,7 +190,7 @@ Vamos escolher a primeira cidade de cada região que encontrarmos e que seja um 
 
 
 ### Simulação 1 - NORTE -> SUL
-
+~~~python
 ['SJLM', 'SBBV', 'SBKP', 'SSZW']
 ----------------------------------------
 name                       PACARAIMA
@@ -215,12 +221,12 @@ lat_geo_point          -25.1847
 lon_geo_point          -50.1441
 Name: SSZW, dtype: object
 ----------------------------------------
-
+~~~
 Com o resultado obtido, verificamos que para viajar de PACARAIMA-RR para PONTA GROSSA-PR é necessário fazer um voo com mais 2 conexões para fazer essa viagem.
 
 
 ### Simulação 2 - SUL -> NORDESTE
-
+~~~python
 ['SSZW', 'SBKP', 'SBRF', 'SNHS']
 ----------------------------------------
 name               PONTA GROSSA
@@ -251,12 +257,12 @@ lat_geo_point     -8.0623998642
 lon_geo_point    -38.3288002014
 Name: SNHS, dtype: object
 ----------------------------------------
-
+~~~
 Com o resultado obtido, verificamos que para viajar de PONTA GROSSA-RR para SERRA TALHADA-PE é necessário fazer um voo com mais 2 conexões para fazer essa viagem.
 
 
 ### Simulação 3 - NODESTE -> CENTRO-OESTE
-
+~~~python
 ['SNHS', 'SBRF', 'SBCY', 'SWBG']
 ----------------------------------------
 name              SERRA TALHADA
@@ -287,12 +293,12 @@ lat_geo_point            -15.1934
 lon_geo_point            -59.3848
 Name: SWBG, dtype: object
 ----------------------------------------
-
+~~~
 Com o resultado obtido, verificamos que para viajar de SERRA TALHADA-PE para PONTES E LACERDA-MT é necessário fazer um voo com mais 2 conexões para fazer essa viagem.
 
 
 ### Simulação 4 - CENTRO-OESTE -> SUDESTE
-
+~~~python
 ['SWBG', 'SBCY', 'SBGL', 'SBAF']
 ----------------------------------------
 name             PONTES E LACERDA
@@ -323,7 +329,7 @@ lat_geo_point        -22.875099
 lon_geo_point        -43.384701
 Name: SBAF, dtype: object
 ----------------------------------------
-
+~~~
 Com o resultado obtido, verificamos que para viajar de PONTES E LACERDA-MT para RIO DE JANEIRO-RJ é necessário fazer um voo com mais 2 conexões para fazer essa viagem.
 
 
