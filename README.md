@@ -56,3 +56,22 @@ Repository used as a portfolio to show all the activities developed during the s
 
 [**Week 10 - PROJECT**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_10-small_worlds_project)
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_10/Project_U2P1.pdf) **Project requirement**
+
+[**Week 11 - PROJECT**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_11_and_12-wikipedia_project)
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Week%2011%20Hubs.pdf) **Hubs**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5e94bd5db07b49f2aef430afd0d70387) **Eccentricity, Diameter, Periphery, Radius and Center**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/33fcf5b964774bbe954d8c27ab9d14b2) **Degree, Closeness, Betweenness and Eigenvector Centrality**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/fbbf816ef7024ff28ae40c23c6a4e4a3) **Centrality Distributions Part 01**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/501981aa40b7473ba42264135bd4f73a) **Centrality Distributions Part 02**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/4c0662510c714c3e893dcaabf4f02035) **Core Decomposition Part 01**
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/a76e1d7feaa44ae98520877048c995ff) **Core Decomposition Part 02**
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_11/Hubs.ipynb) **Hands on hubs***
+
+[**Week 12 - PROJECT**](https://github.com/LyndonJonhson/data-structure-2/tree/main/week_11_and_12-wikipedia_project)
+- Directed networks: case study of Wikipedia pages
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d71021f9a66d4db7894696f21da3a461?sid=01bde711-0944-416f-8567-a30846bef1b7) **Building a networking from Wikipedia pages**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bd71b06183ab4627b49ed43b110cbb2d?sid=8d79e4ed-4e06-4751-afaa-6cb364b28d3f) **Collecting data from a snowballing process**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/5791ab744b3749cf849fb9698119b8b2?sid=ef8f40ce-c2ee-42d5-9124-4498897abf21) **Truncate and eliminate duplicates**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1cd05cb9ad5a456f943bf747cd1b6505?sid=6d322ab5-ed5e-47e9-8a5c-c53f3e06e01f) **Exploring the network data**
+    - Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_12/Wikipedia.ipynb)
+- [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/building-a-data-pipeline/) **Building a Data Pipeline using Direct Acyclic Graph (DAG)**
