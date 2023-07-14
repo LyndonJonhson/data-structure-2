@@ -75,3 +75,14 @@ Repository used as a portfolio to show all the activities developed during the s
     - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1cd05cb9ad5a456f943bf747cd1b6505?sid=6d322ab5-ed5e-47e9-8a5c-c53f3e06e01f) **Exploring the network data**
     - Hands on [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_12/Wikipedia.ipynb)
 - [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/building-a-data-pipeline/) **Building a Data Pipeline using Direct Acyclic Graph (DAG)**
+
+[**Week 13 - PROJECT**](https://lyndonjonhson.github.io/network-deploy/network/)
+- Gephi - The Open Graph Viz Platform
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/6d7f83dfc4f84b66abb8690288732094?sid=6a4fa5a6-0156-49b2-b9b5-def3ae749a8e) **A brief overview about Gephi**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/61623ee4ed9948b9a9a97ed22de6e910?sid=6fe2767d-0450-4803-aede-3db0def97b1e) **Quick start**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/d2d08189c32143ebb1ea5bb612ab1a4d?sid=1560527d-04ad-401f-991e-8f6ec7017890) **Using layouts**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ca4049c9502e4c4cb3c6768323b5565f?sid=deaed86c-0481-44c2-8473-8a91a4e4d07f) **Node and network measures**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/3e2c90775f54419cba165e28229b3ad3?sid=d441254b-57ae-4483-9ef8-12d86bea3f85) **Visualize and filtering nodes and communities**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/109e2e4a596e4ecaa723d3b225f2b0c2?sid=a62dfa83-33df-4381-8e8d-9b775be5e877) **Renderize, export the network, and highlight a community**
+    - [![Open in Loom](https://img.shields.io/badge/webpage-open%20here-green)]( https://ivanovitchm.github.io/netdeploy/network) [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/71a93423f50247bebae0bc3ef3b9eb28?sid=2d4cb63f-c7ad-4177-9d6e-a0e607abafde) **Deploy the network into an HTML page**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/72526380751c43f98c87f95910eb35ed?sid=fbe7b938-61e9-45cb-a9a0-0ce8906f1355) **Another way to publish your network to the web using Retina and Gephisto**
