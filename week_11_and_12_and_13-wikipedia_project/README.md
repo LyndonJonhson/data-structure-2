@@ -12,6 +12,9 @@
 ### Vídeo das semanas 11 e 12:
 *   https://www.loom.com/share/b699ccad24024ec0a34e8b26725a8336
 
+### Vídeo da semana 13:
+*   https://www.loom.com/share/a116a16cda3d4d8eb597e795553e8441
+
 ## Bibliotecas utilizadas
 Primeiro importamos as Bibliotecas necessárias
 Para desenvolver esse projeto tivemos o auxílio das seguintes bibliotecas:
