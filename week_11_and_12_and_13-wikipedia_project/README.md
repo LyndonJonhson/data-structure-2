@@ -10,10 +10,10 @@
 *   https://lyndonjonhson.github.io/network-deploy/network/
 
 ### Vídeo das semanas 11 e 12:
-*   https://www.loom.com/share/b699ccad24024ec0a34e8b26725a8336
+*   https://www.loom.com/share/5e8b1eaf62054a0a802f4068c609967f
 
 ### Vídeo da semana 13:
-*   https://www.loom.com/share/a116a16cda3d4d8eb597e795553e8441
+*   https://www.loom.com/share/6d637514ca554724b852a39d89d7bcc8?sid=5ed52580-fb6d-41b2-9e43-e3cff0f00dd3
 
 ## Bibliotecas utilizadas
 Primeiro importamos as Bibliotecas necessárias
